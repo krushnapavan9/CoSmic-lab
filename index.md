@@ -2,17 +2,15 @@
 title: Home
 ---
 
-# Your Lab Slogan
+# CoSmic-Lab
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/), with automatic citations, GitHub tag imports, pre-built components, and more.
-Spend less time reinventing the wheel, and more time running your lab.
-
-{%
+Computational biology involves the development and application of data-analytical and theoretical methods, mathematical modelling and computational simulation techniques to the study of biological, ecological, behavioral, and social systems. The field is broadly defined and includes foundations in biology, applied mathematics, statistics, biochemistry, chemistry, biophysics, molecular biology, genetics, genomics, computer science, ecology, and evolution, but is most commonly thought of as the intersection of computer science, biology, and big data.
+<!-- {%
   include link.html
   type="github"
   icon=""
   text="See the template on GitHub"
-  link="greenelab/lab-website-template"
+  link="greenelab/CoSmic-lab"
   style="button"
 %}
 {%
@@ -20,27 +18,26 @@ Spend less time reinventing the wheel, and more time running your lab.
   type="docs"
   icon=""
   text="See the documentation"
-  link="https://github.com/greenelab/lab-website-template/wiki"
+  link="https://github.com/greenelab/CoSmic-lab/wiki"
   style="button"
 %}
-{:.center}
+{:.center} -->
 
 {% include section.html full=true %}
 
-{% include banner.html image="images/banner.jpg" %}
+{% include banner.html image="images/banner.png" %}
 
 {% include section.html %}
 
-# Highlights
+# Explore
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Research interests lie at the intersection of Computation and Biology. We develop Probabilistic Models and Statistical Inference Algorithms for solving computational problems in different fields of Biology including Tumor biology, Developmental biology, Single-cell biology and so on
 
 {%
   include link.html
   link="research"
-  text="See what we've published"
+  text="See what we've published/working on"
   icon="fas fa-arrow-right"
   flip=true
 %}
@@ -49,15 +46,14 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/research.jpeg"
   link="research"
-  title="Our Research"
+  title="Research"
   text=text
 %}
 
 {% capture text %}
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The different tools that come as biproduct of our research. These tools can be used directly out of the self. The tools like MARGRET, scDREAMER and so on
 
 {%
   include link.html
@@ -71,16 +67,15 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/products.jpeg"
   link="resources"
-  title="Our Resources"
+  title="Tools"
   flip=true
   text=text
 %}
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
+Our team include students from Ph.D, Btech, MTech, MS-Resaerch from IIT Kanpur and others. Our team members are experties in their own fields. 
 {%
   include link.html
   link="team"
@@ -93,11 +88,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/team.jpeg"
   link="team"
-  title="Our Team"
+  title="Team"
   text=text
 %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Research is something that everyone can do, and everyone ought to do. It is simply collecting information and thinking systematically about it.
+Raewyn Connell
