@@ -1,5 +1,5 @@
 pi:
-  icon: fas fa-microscope
+  icon: fa-solid fa-user-tie #fas fa-microscope
   text: Principal Investigator
 
 postdoc:

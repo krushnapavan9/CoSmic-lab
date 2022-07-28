@@ -1,47 +1,47 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: scDREAMER
+  subtitle: "scDREAMER: atlas-level integration of single-cell datasets using deep generative model paired with adversarial classifier"
   group: featured
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: scDREAMER is a single-cell data integration framework that employs a novel adversarial variational autoencoder for learning lower-dimensional cellular embeddings and a batch classifier neural network for the removal of batch effects. See our preprint below for more details.
+  repo: Zafar-Lab/scDREAMER
   tags:
     - resource
 
-- title: Cool Package
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
+# - title: Cool Package
+#   subtitle: a subtitle
+#   group: featured
+#   image: images/photo.jpg
+#   link: https://github.com/
+#   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#   repo: greenelab/lab-website-template
+#   tags:
+#     - resource
 
-- title: Cool Tutorial
-  group: more
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-    - publication
+# - title: Cool Tutorial
+#   group: more
+#   image: images/photo.jpg
+#   link: https://github.com/
+#   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#   repo: greenelab/lab-website-template
+#   tags:
+#     - resource
+#     - publication
 
-- title: Cool Web App
-  group: more
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
+# - title: Cool Web App
+#   group: more
+#   image: images/photo.jpg
+#   link: https://github.com/
+#   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#   repo: greenelab/lab-website-template
+#   tags:
+#     - software
 
-- title: Cool Web Server
-  group: more
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
+# - title: Cool Web Server
+#   group: more
+#   image: images/photo.jpg
+#   link: https://github.com/
+#   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#   repo: greenelab/lab-website-template
+#   tags:
+#     - software
