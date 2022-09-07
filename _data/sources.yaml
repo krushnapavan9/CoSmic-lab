@@ -17,9 +17,11 @@
   tags:
     - Data Integration, VAE, Adverserial learning.
 
-- id:doi:10.1093/bioinformatics/btac254
+- id: doi:10.1093/bioinformatics/btac254
+  image: https://www.google.com/search?q=bioinformatics+journal&tbm=isch&ved=2ahUKEwj-v_eUjIP6AhUY7nMBHY47DvsQ2-cCegQIABAA&oq=Bioinformatics+jou&gs_lcp=CgNpbWcQARgAMgUIABCABDIECAAQGDIECAAQGDIECAAQGDIECAAQGDIECAAQGDIECAAQGDIECAAQGDIECAAQGDIECAAQGDoECCMQJzoKCAAQsQMQgwEQQzoECAAQQzoGCAAQHhAFUI8EWNYJYOoQaABwAHgAgAGVAYgBxgWSAQMwLjWYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=9cUYY77xIJjcz7sPjve42A8&bih=680&biw=1440#imgrc=A6YyJf9cMy_88M
 
-- id:doi:10.1093/nar/gkac412
+- id: doi:10.1093/nar/gkac412
+  image: https://academic.oup.com/view-large/figure/369644224/gkac412fig1.jpg
 
 # - id: doi:10.1371/journal.pcbi.1007128
 #   image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
