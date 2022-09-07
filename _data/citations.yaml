@@ -33,13 +33,16 @@
   image: https://www.google.com/search?q=bioinformatics+journal&tbm=isch&ved=2ahUKEwj-v_eUjIP6AhUY7nMBHY47DvsQ2-cCegQIABAA&oq=Bioinformatics+jou&gs_lcp=CgNpbWcQARgAMgUIABCABDIECAAQGDIECAAQGDIECAAQGDIECAAQGDIECAAQGDIECAAQGDIECAAQGDIECAAQGDIECAAQGDoECCMQJzoKCAAQsQMQgwEQQzoECAAQQzoGCAAQHhAFUI8EWNYJYOoQaABwAHgAgAGVAYgBxgWSAQMwLjWYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=9cUYY77xIJjcz7sPjve42A8&bih=680&biw=1440#imgrc=A6YyJf9cMy_88M
   _cache: 4a92c51c98ad15118b001c251afa0c0ce238351cb36e18f7c8e6154c593418e4
 - id: doi:10.1093/nar/gkac412
-  title: ''
-  authors: []
-  publisher: ''
-  date: '1900-01-01'
+  title: Inference of cell state transitions and cell fate plasticity from single-cell
+    with MARGARET
+  authors:
+  - Kushagra Pandey
+  - Hamim Zafar
+  publisher: Nucleic Acids Research
+  date: '2022-05-25'
   link: https://doi.org/gqr25n
-  image: https://academic.oup.com/view-large/figure/369644224/gkac412fig1.jpg
-  _cache: 494e2d0b6cb0b342fcc68786f5b6cbad483498fa347677d314ff213546803778
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/nar/50/15/10.1093_nar_gkac412/1/gkac412fig1.jpeg?Expires=1665593796&Signature=SxpJa~HllwliI82HjBxdH9AfuXZpdNjdZB1joktcEY5Tf9YqH22hZJy2tA0YjXp8FWjbp3cnZ7Z-~uOlhur3xK-d0ZVSDjS3m9xJOWo-fS6tTia0F27VmO-8zZsywee3dlQeDqD6HPiy~XAMuF6-pXyZ9GRAL~FPAJb3IIPTTf8FP1v~3FUwXJXbsNDLAMYZdzRLAFjgBKQLqieOgV0fRLKVGICnlRnzxFGIjEqg-tU7yE2ZLyzXV5e1YNMoHnW7cXsPTHK7jSqT-Ij-LJV11A4NGdf3rCEUygTrozmipkd-Gp9lTvIt9YNEVB7uwoy6vWuUkLH81pfLW6lSdTKLNw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  _cache: bc1a01a4357582507450196502cab50178f5608a546aa5e76d4c26bf526d77c5
 - id: doi:10.1101/2022.01.23.477444
   title: 'FiMO: Inferring the Temporal Order of Mutations on Clonal Phylogeny under
     Finite-sites Models'
@@ -49,7 +52,8 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2022-01-24'
   link: https://doi.org/gqr252
-  _cache: eefac570c24d3d96395571ec1b50fd0ba95b784da3d5c572fcde2283567c6a6b
+  image: https://www.biorxiv.org/content/biorxiv/early/2022/01/24/2022.01.23.477444/F2.large.jpg?width=800&height=600&carousel=1
+  _cache: f722463946283c1954e59ae99d1350e72d77a3acabdde765906f83a63fda0de8
 - id: doi:10.1101/2021.01.12.426460
   title: Pre-metastatic niche drives breast cancer invasion by modulating MSC homing
     and CAF differentiation
@@ -62,4 +66,5 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2021-01-13'
   link: https://doi.org/gqr253
-  _cache: 6402dddeed7d6cbb0dfa45eb7b5ac0a87022ed29ddff5394a327fb890100a144
+  image: https://www.biorxiv.org/content/biorxiv/early/2021/01/13/2021.01.12.426460/F7.large.jpg?width=800&height=600&carousel=1
+  _cache: 810fb1eec1adae6c1aff59bbeeda4de7313213c5df5dc45cc16065274d77ab09
