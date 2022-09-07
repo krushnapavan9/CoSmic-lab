@@ -20,14 +20,20 @@
 # PhyloVar
 - id: doi:10.1093/bioinformatics/btac254
   image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac254/2/btac254f3.jpeg?Expires=1665594500&Signature=JCwh4M4whwOew0MOg24pwXaErU3~N79w8ERbmEYV6sH4v65Euo6DRIPY3ikATihuknwcJ~7TP1VfZbt-XSgq3pMWWbBgvt-nwLHTOAYtk6v2V443snfUu~JdP-vmedK2eodI-SleAHxt~bFQ5UtUMbUVBvb8GR77822bspL-dp3k1UviyF3Vbf3M3Z4AZLxlDwRalip3bpkbCqXWc8R5bit9ryaEQR0GV3v~UAyfT3igQeLxNWEvm8mzXTQMZmCBwhW-UYhAYmCmKlnCNkjb0~6yPB3ASZDMMp0FzuSlk5PJyj1~BbWQuZpJhfC-~3iPtYS50qEFYWcZ3EPN6D8mmw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
-
+  tags:
+    - Variant Calling, Phylogeny, Tumor
+    
 # MARGARET
 - id: doi:10.1093/nar/gkac412
   image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/nar/50/15/10.1093_nar_gkac412/1/gkac412fig1.jpeg?Expires=1665593796&Signature=SxpJa~HllwliI82HjBxdH9AfuXZpdNjdZB1joktcEY5Tf9YqH22hZJy2tA0YjXp8FWjbp3cnZ7Z-~uOlhur3xK-d0ZVSDjS3m9xJOWo-fS6tTia0F27VmO-8zZsywee3dlQeDqD6HPiy~XAMuF6-pXyZ9GRAL~FPAJb3IIPTTf8FP1v~3FUwXJXbsNDLAMYZdzRLAFjgBKQLqieOgV0fRLKVGICnlRnzxFGIjEqg-tU7yE2ZLyzXV5e1YNMoHnW7cXsPTHK7jSqT-Ij-LJV11A4NGdf3rCEUygTrozmipkd-Gp9lTvIt9YNEVB7uwoy6vWuUkLH81pfLW6lSdTKLNw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
-
+  tags:
+    - Trajectory Inference, Cell fate, Development
+    
 # FIMO
 - id: doi:10.1101/2022.01.23.477444
   image: https://www.biorxiv.org/content/biorxiv/early/2022/01/24/2022.01.23.477444/F2.large.jpg?width=800&height=600&carousel=1
+  tags:
+    - Phylogeny, Tumor, Mutation Order
 
 # truthBot
 - id: arXiv:2102.00509
@@ -39,6 +45,38 @@
 # LinTIMaT
 - id: doi:10.1038/s41467-020-16821-5
   image: https://github.com/jessica1338/LinTIMaT/blob/master/images/repo_method.png?raw=true
+  tags:
+    - Phylogeny, Lineage, Development
+
+# SiCloneFit
+- id: doi:10.1101/gr.243121.118
+  image: https://genome.cshlp.org/content/29/11/1847/F1.large.jpg
+  tags:
+    - Phylogeny, Tumor, Clone
+
+# scVILP
+- id: doi:10.4230/LIPIcs.WABI.2019.22
+  image: https://www.biorxiv.org/content/biorxiv/early/2019/07/05/693960/F5.large.jpg?width=800&height=600&carousel=1
+  tags:
+    - Variant Calling, Phylogeny, Tumor
+
+# Collab with Mary Farach Carson
+- id: doi:10.1038/s41598-018-25435-3
+
+# single-cell review
+- id: doi:10.1016/j.coisb.2017.11.008
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2452310017301865-gr1_lrg.jpg
+  tags:
+    - Variant Calling, Single cell
+
+# SiFit
+- id: doi:10.1186/s13059-017-1311-2
+  image: https://www.biorxiv.org/content/biorxiv/early/2017/08/16/091595/F6.large.jpg?width=800&height=600&carousel=1
+  tags:
+    - Phylogeny, Tumor, Clone
+
+# MonoVar
+
 
 # - id: doi:10.1371/journal.pcbi.1007128
 #   image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
