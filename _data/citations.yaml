@@ -30,8 +30,8 @@
   publisher: Bioinformatics
   date: '2022-06-24'
   link: https://doi.org/gqr25m
-  image: https://www.google.com/search?q=bioinformatics+journal&tbm=isch&ved=2ahUKEwj-v_eUjIP6AhUY7nMBHY47DvsQ2-cCegQIABAA&oq=Bioinformatics+jou&gs_lcp=CgNpbWcQARgAMgUIABCABDIECAAQGDIECAAQGDIECAAQGDIECAAQGDIECAAQGDIECAAQGDIECAAQGDIECAAQGDIECAAQGDoECCMQJzoKCAAQsQMQgwEQQzoECAAQQzoGCAAQHhAFUI8EWNYJYOoQaABwAHgAgAGVAYgBxgWSAQMwLjWYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=9cUYY77xIJjcz7sPjve42A8&bih=680&biw=1440#imgrc=A6YyJf9cMy_88M
-  _cache: 4a92c51c98ad15118b001c251afa0c0ce238351cb36e18f7c8e6154c593418e4
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac254/2/btac254f3.jpeg?Expires=1665594500&Signature=JCwh4M4whwOew0MOg24pwXaErU3~N79w8ERbmEYV6sH4v65Euo6DRIPY3ikATihuknwcJ~7TP1VfZbt-XSgq3pMWWbBgvt-nwLHTOAYtk6v2V443snfUu~JdP-vmedK2eodI-SleAHxt~bFQ5UtUMbUVBvb8GR77822bspL-dp3k1UviyF3Vbf3M3Z4AZLxlDwRalip3bpkbCqXWc8R5bit9ryaEQR0GV3v~UAyfT3igQeLxNWEvm8mzXTQMZmCBwhW-UYhAYmCmKlnCNkjb0~6yPB3ASZDMMp0FzuSlk5PJyj1~BbWQuZpJhfC-~3iPtYS50qEFYWcZ3EPN6D8mmw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  _cache: 98fa98f7b2c6f1c4d30dfb1129d26e8e9ff65934a404f7841a2a5eee3a3fe4e2
 - id: doi:10.1093/nar/gkac412
   title: Inference of cell state transitions and cell fate plasticity from single-cell
     with MARGARET
@@ -54,6 +54,22 @@
   link: https://doi.org/gqr252
   image: https://www.biorxiv.org/content/biorxiv/early/2022/01/24/2022.01.23.477444/F2.large.jpg?width=800&height=600&carousel=1
   _cache: f722463946283c1954e59ae99d1350e72d77a3acabdde765906f83a63fda0de8
+- id: arXiv:2102.00509
+  title: 'TruthBot: An Automated Conversational Tool for Intent Learning, Curated
+    Information Presenting, and Fake News Alerting'
+  authors:
+  - Ankur Gupta
+  - Yash Varun
+  - Prarthana Das
+  - Nithya Muttineni
+  - Parth Srivastava
+  - Hamim Zafar
+  - Tanmoy Chakraborty
+  - Swaprava Nath
+  publisher: arXiv
+  date: '2021-02-02'
+  link: https://arxiv.org/abs/2102.00509
+  _cache: 12a6aab3121e0a9d74f25b75ea2fb6ef3dd22adf0b49f4745d28ba78d42b6382
 - id: doi:10.1101/2021.01.12.426460
   title: Pre-metastatic niche drives breast cancer invasion by modulating MSC homing
     and CAF differentiation
@@ -68,3 +84,15 @@
   link: https://doi.org/gqr253
   image: https://www.biorxiv.org/content/biorxiv/early/2021/01/13/2021.01.12.426460/F7.large.jpg?width=800&height=600&carousel=1
   _cache: 810fb1eec1adae6c1aff59bbeeda4de7313213c5df5dc45cc16065274d77ab09
+- id: doi:10.1038/s41467-020-16821-5
+  title: Single-cell lineage tracing by integrating CRISPR-Cas9 mutations with transcriptomic
+    data
+  authors:
+  - Hamim Zafar
+  - Chieh Lin
+  - Ziv Bar-Joseph
+  publisher: Nature Communications
+  date: '2020-06-16'
+  link: https://doi.org/gg22zm
+  image: https://github.com/jessica1338/LinTIMaT/blob/master/images/repo_method.png?raw=true
+  _cache: c67646f002350d6629af23e19984db50c93e16e878990b20012f6dc8faa73b85
