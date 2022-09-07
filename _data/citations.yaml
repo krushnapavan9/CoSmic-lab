@@ -31,7 +31,9 @@
   date: '2022-06-24'
   link: https://doi.org/gqr25m
   image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac254/2/btac254f3.jpeg?Expires=1665594500&Signature=JCwh4M4whwOew0MOg24pwXaErU3~N79w8ERbmEYV6sH4v65Euo6DRIPY3ikATihuknwcJ~7TP1VfZbt-XSgq3pMWWbBgvt-nwLHTOAYtk6v2V443snfUu~JdP-vmedK2eodI-SleAHxt~bFQ5UtUMbUVBvb8GR77822bspL-dp3k1UviyF3Vbf3M3Z4AZLxlDwRalip3bpkbCqXWc8R5bit9ryaEQR0GV3v~UAyfT3igQeLxNWEvm8mzXTQMZmCBwhW-UYhAYmCmKlnCNkjb0~6yPB3ASZDMMp0FzuSlk5PJyj1~BbWQuZpJhfC-~3iPtYS50qEFYWcZ3EPN6D8mmw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
-  _cache: 98fa98f7b2c6f1c4d30dfb1129d26e8e9ff65934a404f7841a2a5eee3a3fe4e2
+  tags:
+  - Variant Calling, Phylogeny, Tumor
+  _cache: 7d764006efa5e1bb7057a63b476162fa9f5b632815355b92cc8eacc5e96a0d33
 - id: doi:10.1093/nar/gkac412
   title: Inference of cell state transitions and cell fate plasticity from single-cell
     with MARGARET
@@ -42,7 +44,9 @@
   date: '2022-05-25'
   link: https://doi.org/gqr25n
   image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/nar/50/15/10.1093_nar_gkac412/1/gkac412fig1.jpeg?Expires=1665593796&Signature=SxpJa~HllwliI82HjBxdH9AfuXZpdNjdZB1joktcEY5Tf9YqH22hZJy2tA0YjXp8FWjbp3cnZ7Z-~uOlhur3xK-d0ZVSDjS3m9xJOWo-fS6tTia0F27VmO-8zZsywee3dlQeDqD6HPiy~XAMuF6-pXyZ9GRAL~FPAJb3IIPTTf8FP1v~3FUwXJXbsNDLAMYZdzRLAFjgBKQLqieOgV0fRLKVGICnlRnzxFGIjEqg-tU7yE2ZLyzXV5e1YNMoHnW7cXsPTHK7jSqT-Ij-LJV11A4NGdf3rCEUygTrozmipkd-Gp9lTvIt9YNEVB7uwoy6vWuUkLH81pfLW6lSdTKLNw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
-  _cache: bc1a01a4357582507450196502cab50178f5608a546aa5e76d4c26bf526d77c5
+  tags:
+  - Trajectory Inference, Cell fate, Development
+  _cache: 7df12d6a65f626d04f4a6cd7debaaed9dbbf2d0420a4394b62a0510428bc7a68
 - id: doi:10.1101/2022.01.23.477444
   title: 'FiMO: Inferring the Temporal Order of Mutations on Clonal Phylogeny under
     Finite-sites Models'
@@ -53,7 +57,9 @@
   date: '2022-01-24'
   link: https://doi.org/gqr252
   image: https://www.biorxiv.org/content/biorxiv/early/2022/01/24/2022.01.23.477444/F2.large.jpg?width=800&height=600&carousel=1
-  _cache: f722463946283c1954e59ae99d1350e72d77a3acabdde765906f83a63fda0de8
+  tags:
+  - Phylogeny, Tumor, Mutation Order
+  _cache: 8d678323abc866a1ee4df3a6fe495d1b00de49e85c44d0bc625399e4a5d7239d
 - id: arXiv:2102.00509
   title: 'TruthBot: An Automated Conversational Tool for Intent Learning, Curated
     Information Presenting, and Fake News Alerting'
@@ -95,4 +101,83 @@
   date: '2020-06-16'
   link: https://doi.org/gg22zm
   image: https://github.com/jessica1338/LinTIMaT/blob/master/images/repo_method.png?raw=true
-  _cache: c67646f002350d6629af23e19984db50c93e16e878990b20012f6dc8faa73b85
+  tags:
+  - Phylogeny, Lineage, Development
+  _cache: 3d03d57809a9ce67d2af0f92e81594fcc7b86f6b3b142fb2d340a1743b70825a
+- id: doi:10.1101/gr.243121.118
+  title: 'SiCloneFit: Bayesian inference of population structure, genotype, and phylogeny
+    of tumor clones from single-cell genome sequencing data'
+  authors:
+  - Hamim Zafar
+  - Nicholas Navin
+  - Ken Chen
+  - Luay Nakhleh
+  publisher: Genome Research
+  date: '2019-10-18'
+  link: https://doi.org/ggfv9f
+  image: https://genome.cshlp.org/content/29/11/1847/F1.large.jpg
+  tags:
+  - Phylogeny, Tumor, Clone
+  _cache: 86973d10e161ef6f02ffeb4b09e9138953412203068ad9e24cae638eb9c0ba9b
+- id: doi:10.4230/LIPIcs.WABI.2019.22
+  title: A Combinatorial Approach for Single-cell Variant Detection via Phylogenetic
+    Inference
+  authors:
+  - Mohammadamin Edrisi
+  - Hamim Zafar
+  - Luay Nakhleh
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik GmbH, Wadern/Saarbruecken,
+    Germany
+  date: '2019-01-01'
+  link: https://doi.org/gqr3gh
+  image: https://www.biorxiv.org/content/biorxiv/early/2019/07/05/693960/F5.large.jpg?width=800&height=600&carousel=1
+  tags:
+  - Variant Calling, Phylogeny, Tumor
+  _cache: f45ce22329ef13ad467d88da7ba36a05f9cea4b2d753cce0c483f813112acff4
+- id: doi:10.1038/s41598-018-25435-3
+  title: Matrilysin/MMP-7 Cleavage of Perlecan/HSPG2 Complexed with Semaphorin 3A
+    Supports FAK-Mediated Stromal Invasion by Prostate Cancer Cells
+  authors:
+  - Brian J. Grindel
+  - Jerahme R. Martinez
+  - Tristen V. Tellman
+  - Daniel A. Harrington
+  - Hamim Zafar
+  - Luay Nakhleh
+  - Leland W. Chung
+  - Mary C. Farach-Carson
+  publisher: Scientific Reports
+  date: '2018-05-08'
+  link: https://doi.org/gdjfrd
+  _cache: 3c57b360cd37b4f5708dd925e5e5ae8d9d4f2a9ca621f8876419797bf8d8fd55
+- id: doi:10.1016/j.coisb.2017.11.008
+  title: Computational approaches for inferring tumor evolution from single-cell genomic
+    data
+  authors:
+  - Hamim Zafar
+  - Nicholas Navin
+  - Luay Nakhleh
+  - Ken Chen
+  publisher: Current Opinion in Systems Biology
+  date: '2018-02-01'
+  link: https://doi.org/gqr3gj
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2452310017301865-gr1_lrg.jpg
+  tags:
+  - Variant Calling, Single cell
+  _cache: d6e86cdeaa168e740b0b3deb0620828e1c47e103e961997db83344c7026adbbf
+- id: doi:10.1186/s13059-017-1311-2
+  title: 'SiFit: inferring tumor trees from single-cell sequencing data under finite-sites
+    models'
+  authors:
+  - Hamim Zafar
+  - Anthony Tzen
+  - Nicholas Navin
+  - Ken Chen
+  - Luay Nakhleh
+  publisher: Genome Biology
+  date: '2017-09-19'
+  link: https://doi.org/gbxx7n
+  image: https://www.biorxiv.org/content/biorxiv/early/2017/08/16/091595/F6.large.jpg?width=800&height=600&carousel=1
+  tags:
+  - Phylogeny, Tumor, Clone
+  _cache: 7b2a7b1da86b872814d076d8949083e37b6d33c09fb6fea518a740c997155735
