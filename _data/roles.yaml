@@ -7,8 +7,12 @@ postdoc:
   text: Postdoctoral Researcher
 
 phd:
-  icon: fas fa-graduation-cap
+  icon: fas fa-duotone fa-user-graduate
   text: PhD Student
+  
+masters:
+  icon: fas fa-graduation-cap
+  text: Masters Student
 
 undergrad:
   icon: fas fa-user-graduate
