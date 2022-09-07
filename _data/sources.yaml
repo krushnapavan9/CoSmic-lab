@@ -11,7 +11,7 @@
 #   repo: Zafar-Lab/scDREAMER
 #   extra-links:
 
-- id: https://doi.org/10.1101/2022.07.12.499846
+- id: doi:10.1101/2022.07.12.499846
   image: https://www.biorxiv.org/content/biorxiv/early/2022/07/14/2022.07.12.499846/F1.large.jpg?width=800&height=600&carousel=1
   date: 2022-07-14
   tags:
@@ -22,6 +22,11 @@
 
 - id: doi:10.1093/nar/gkac412
   image: https://academic.oup.com/view-large/figure/369644224/gkac412fig1.jpg
+  repo: Zafar-Lab/Margaret
+
+- id: doi:10.1101/2022.01.23.477444
+
+- id: doi:10.1101/2021.01.12.426460
 
 # - id: doi:10.1371/journal.pcbi.1007128
 #   image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
