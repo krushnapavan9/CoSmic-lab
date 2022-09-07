@@ -11,20 +11,27 @@
 #   repo: Zafar-Lab/scDREAMER
 #   extra-links:
 
+# scDREAMER
 - id: doi:10.1101/2022.07.12.499846
   image: https://www.biorxiv.org/content/biorxiv/early/2022/07/14/2022.07.12.499846/F1.large.jpg?width=800&height=600&carousel=1
   tags:
     - Data Integration, VAE, Adverserial learning.
 
+# PhyloVar
 - id: doi:10.1093/bioinformatics/btac254
   image: https://www.google.com/search?q=bioinformatics+journal&tbm=isch&ved=2ahUKEwj-v_eUjIP6AhUY7nMBHY47DvsQ2-cCegQIABAA&oq=Bioinformatics+jou&gs_lcp=CgNpbWcQARgAMgUIABCABDIECAAQGDIECAAQGDIECAAQGDIECAAQGDIECAAQGDIECAAQGDIECAAQGDIECAAQGDIECAAQGDoECCMQJzoKCAAQsQMQgwEQQzoECAAQQzoGCAAQHhAFUI8EWNYJYOoQaABwAHgAgAGVAYgBxgWSAQMwLjWYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=9cUYY77xIJjcz7sPjve42A8&bih=680&biw=1440#imgrc=A6YyJf9cMy_88M
 
+# MARGARET
 - id: doi:10.1093/nar/gkac412
-  image: https://academic.oup.com/view-large/figure/369644224/gkac412fig1.jpg
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/nar/50/15/10.1093_nar_gkac412/1/gkac412fig1.jpeg?Expires=1665593796&Signature=SxpJa~HllwliI82HjBxdH9AfuXZpdNjdZB1joktcEY5Tf9YqH22hZJy2tA0YjXp8FWjbp3cnZ7Z-~uOlhur3xK-d0ZVSDjS3m9xJOWo-fS6tTia0F27VmO-8zZsywee3dlQeDqD6HPiy~XAMuF6-pXyZ9GRAL~FPAJb3IIPTTf8FP1v~3FUwXJXbsNDLAMYZdzRLAFjgBKQLqieOgV0fRLKVGICnlRnzxFGIjEqg-tU7yE2ZLyzXV5e1YNMoHnW7cXsPTHK7jSqT-Ij-LJV11A4NGdf3rCEUygTrozmipkd-Gp9lTvIt9YNEVB7uwoy6vWuUkLH81pfLW6lSdTKLNw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
 
+# FIMO
 - id: doi:10.1101/2022.01.23.477444
+  image: https://www.biorxiv.org/content/biorxiv/early/2022/01/24/2022.01.23.477444/F2.large.jpg?width=800&height=600&carousel=1
 
+# Pre-metastatic niche drives breast cancer invasion by modulating MSC homing and CAF differentiation
 - id: doi:10.1101/2021.01.12.426460
+  image: https://www.biorxiv.org/content/biorxiv/early/2021/01/13/2021.01.12.426460/F7.large.jpg?width=800&height=600&carousel=1
 
 # - id: doi:10.1371/journal.pcbi.1007128
 #   image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
