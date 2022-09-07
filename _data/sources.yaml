@@ -13,7 +13,6 @@
 
 - id: doi:10.1101/2022.07.12.499846
   image: https://www.biorxiv.org/content/biorxiv/early/2022/07/14/2022.07.12.499846/F1.large.jpg?width=800&height=600&carousel=1
-  date: 2022-07-14
   tags:
     - Data Integration, VAE, Adverserial learning.
 
@@ -22,7 +21,6 @@
 
 - id: doi:10.1093/nar/gkac412
   image: https://academic.oup.com/view-large/figure/369644224/gkac412fig1.jpg
-  repo: Zafar-Lab/Margaret
 
 - id: doi:10.1101/2022.01.23.477444
 
