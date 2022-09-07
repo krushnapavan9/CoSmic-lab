@@ -1,20 +1,20 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
-- id: https://doi.org/10.1101/2022.07.12.499846
+- id: doi:10.1101/2022.07.12.499846
   title: 'scDREAMER: atlas-level integration of single-cell datasets using deep generative
     model paired with adversarial classifier'
   authors:
   - Ajita Shree
   - Musale Krushna Pavan
   - Hamim Zafar
-  publisher: ''
+  publisher: Cold Spring Harbor Laboratory
   date: 1900-1-1
-  link: https://www.biorxiv.org/content/10.1101/2022.07.12.499846v1
+  link: https://doi.org/gqr25x
   image: https://www.biorxiv.org/content/biorxiv/early/2022/07/14/2022.07.12.499846/F1.large.jpg?width=800&height=600&carousel=1
   tags:
   - Data Integration, VAE, Adverserial learning.
-  _cache: 9c228d4ceec63fe141a13a71cff5cbf64f92bf97671dbce39d2ab25fd51b7957
+  _cache: f2025afd5f21ef638b9e36491ab93697b04bb238c8ae1e21db248bc242b58661
 - id: doi:10.1093/bioinformatics/btac254
   title: 'Phylovar: toward scalable phylogeny-aware inference of single-nucleotide
     variations from single-cell DNA sequencing data'
@@ -33,13 +33,34 @@
   image: https://www.google.com/search?q=bioinformatics+journal&tbm=isch&ved=2ahUKEwj-v_eUjIP6AhUY7nMBHY47DvsQ2-cCegQIABAA&oq=Bioinformatics+jou&gs_lcp=CgNpbWcQARgAMgUIABCABDIECAAQGDIECAAQGDIECAAQGDIECAAQGDIECAAQGDIECAAQGDIECAAQGDIECAAQGDIECAAQGDoECCMQJzoKCAAQsQMQgwEQQzoECAAQQzoGCAAQHhAFUI8EWNYJYOoQaABwAHgAgAGVAYgBxgWSAQMwLjWYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=9cUYY77xIJjcz7sPjve42A8&bih=680&biw=1440#imgrc=A6YyJf9cMy_88M
   _cache: 4a92c51c98ad15118b001c251afa0c0ce238351cb36e18f7c8e6154c593418e4
 - id: doi:10.1093/nar/gkac412
-  title: Inference of cell state transitions and cell fate plasticity from single-cell
-    with MARGARET
-  authors:
-  - Kushagra Pandey
-  - Hamim Zafar
-  publisher: Nucleic Acids Research
-  date: '2022-05-25'
+  title: ''
+  authors: []
+  publisher: ''
+  date: '1900-01-01'
   link: https://doi.org/gqr25n
   image: https://academic.oup.com/view-large/figure/369644224/gkac412fig1.jpg
-  _cache: 494e2d0b6cb0b342fcc68786f5b6cbad483498fa347677d314ff213546803778
+  repo: Zafar-Lab/Margaret
+  _cache: 3a1c5571f9ce3cfa3515ac7ee45d45ce8922566ec059cee2fd8a3d648cd6f5d6
+- id: doi:10.1101/2022.01.23.477444
+  title: 'FiMO: Inferring the Temporal Order of Mutations on Clonal Phylogeny under
+    Finite-sites Models'
+  authors:
+  - Avesh Kumar Agrawal
+  - Hamim Zafar
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-01-24'
+  link: https://doi.org/gqr252
+  _cache: eefac570c24d3d96395571ec1b50fd0ba95b784da3d5c572fcde2283567c6a6b
+- id: doi:10.1101/2021.01.12.426460
+  title: Pre-metastatic niche drives breast cancer invasion by modulating MSC homing
+    and CAF differentiation
+  authors:
+  - Neha Saxena
+  - Garvit Bhardwaj
+  - Sameer Jadhav
+  - Hamim Zafar
+  - Shamik Sen
+  publisher: Cold Spring Harbor Laboratory
+  date: '2021-01-13'
+  link: https://doi.org/gqr253
+  _cache: 6402dddeed7d6cbb0dfa45eb7b5ac0a87022ed29ddff5394a327fb890100a144
