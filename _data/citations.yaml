@@ -46,6 +46,7 @@
   image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/nar/50/15/10.1093_nar_gkac412/1/gkac412fig1.jpeg?Expires=1665593796&Signature=SxpJa~HllwliI82HjBxdH9AfuXZpdNjdZB1joktcEY5Tf9YqH22hZJy2tA0YjXp8FWjbp3cnZ7Z-~uOlhur3xK-d0ZVSDjS3m9xJOWo-fS6tTia0F27VmO-8zZsywee3dlQeDqD6HPiy~XAMuF6-pXyZ9GRAL~FPAJb3IIPTTf8FP1v~3FUwXJXbsNDLAMYZdzRLAFjgBKQLqieOgV0fRLKVGICnlRnzxFGIjEqg-tU7yE2ZLyzXV5e1YNMoHnW7cXsPTHK7jSqT-Ij-LJV11A4NGdf3rCEUygTrozmipkd-Gp9lTvIt9YNEVB7uwoy6vWuUkLH81pfLW6lSdTKLNw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
   tags:
   - Trajectory Inference, Cell fate, Development
+  repo: https://github.com/Zafar-Lab/Margaret
   _cache: 7df12d6a65f626d04f4a6cd7debaaed9dbbf2d0420a4394b62a0510428bc7a68
 - id: doi:10.1101/2022.01.23.477444
   title: 'FiMO: Inferring the Temporal Order of Mutations on Clonal Phylogeny under
