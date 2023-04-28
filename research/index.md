@@ -7,7 +7,7 @@ nav:
 
 # <i class="fas fa-book-open"></i>Publications
 
-write something here 
+We develop computational models for dissecting single-cell biology through the analyses of high-throughput omics datasets. See below the list of publications from the lab. 
 
 {% include section.html %}
 
