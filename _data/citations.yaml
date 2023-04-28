@@ -1,6 +1,10 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.1101/2023.04.14.536833
+  image: https://www.biorxiv.org/content/biorxiv/early/2023/04/17/2023.04.14.536833/F1.large.jpg?width=800&height=600&carousel=1
+  tags:
+  - Cell-cell Communication, Spatial Transcriptomics, Ligand-target activity.
 - id: doi:10.1101/2022.07.12.499846
   title: 'scDREAMER: atlas-level integration of single-cell datasets using deep generative
     model paired with adversarial classifier'
@@ -47,7 +51,6 @@
   tags:
   - Trajectory Inference, Cell fate, Development
   repo: https://github.com/Zafar-Lab/Margaret
-  _cache: 7df12d6a65f626d04f4a6cd7debaaed9dbbf2d0420a4394b62a0510428bc7a68
 - id: doi:10.1101/2022.01.23.477444
   title: 'FiMO: Inferring the Temporal Order of Mutations on Clonal Phylogeny under
     Finite-sites Models'
