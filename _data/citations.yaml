@@ -43,7 +43,7 @@
   publisher: Nucleic Acids Research
   date: '2022-05-25'
   link: https://doi.org/gqr25n
-  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/nar/50/15/10.1093_nar_gkac412/1/gkac412fig1.jpeg?Expires=1665593796&Signature=SxpJa~HllwliI82HjBxdH9AfuXZpdNjdZB1joktcEY5Tf9YqH22hZJy2tA0YjXp8FWjbp3cnZ7Z-~uOlhur3xK-d0ZVSDjS3m9xJOWo-fS6tTia0F27VmO-8zZsywee3dlQeDqD6HPiy~XAMuF6-pXyZ9GRAL~FPAJb3IIPTTf8FP1v~3FUwXJXbsNDLAMYZdzRLAFjgBKQLqieOgV0fRLKVGICnlRnzxFGIjEqg-tU7yE2ZLyzXV5e1YNMoHnW7cXsPTHK7jSqT-Ij-LJV11A4NGdf3rCEUygTrozmipkd-Gp9lTvIt9YNEVB7uwoy6vWuUkLH81pfLW6lSdTKLNw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  image: https://github.com/Zafar-Lab/Margaret/blob/main/Fig1.jpg
   tags:
   - Trajectory Inference, Cell fate, Development
   repo: https://github.com/Zafar-Lab/Margaret
